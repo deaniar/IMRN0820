@@ -18,6 +18,8 @@ var nama = 'John'
 var peran = ' '
 if ( nama = ' ', peran= ' '){
     console.log("Nama harus diisi")
-    if(nama = 'John', peran = '')
+    if(nama = 'John', peran = ''){
+        console.log("Halo John, Pilih peranmu untuk memulai game!")
+    } else if
     
 }
